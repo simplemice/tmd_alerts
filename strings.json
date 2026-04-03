@@ -1,0 +1,10 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Thailand Weather Alerts",
+        "description": "Select region"
+      }
+    }
+  }
+}
