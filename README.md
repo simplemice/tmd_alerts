@@ -1,4 +1,4 @@
-# Test Custom Integration for Casa De Ratton
+# Testing Custom Integration for Casa De Ratton
 
 # 🌧️ Thailand Weather Alerts (TMD)
 
@@ -100,12 +100,6 @@ This project is **not affiliated with**, maintained by, or endorsed by the **Tha
 It is provided **as-is** for informational purposes only.
 
 During severe weather events, always rely on **official government announcements**.
-
----
-
-## 👨‍💻 Developer
-
-**@simplemice**
 
 ---
 
