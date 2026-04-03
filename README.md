@@ -2,6 +2,8 @@
 
 # 🌧️ Thailand Weather Alerts (TMD)
 
+(Testing Mode, Not Worked)
+
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Custom%20Integration-blue)
 ![Status](https://img.shields.io/badge/status-experimental-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
